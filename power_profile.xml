@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<device name="Android">
+    <item name="battery.capacity">3000</item>
+    <array name="cpu.clusters.cores">
+        <value>4</value>
+    </array>
+    <item name="cpu.suspend">2.8</item>
+    <array name="cpu.core_speeds.cluster0">
+        <value>960000</value>
+        <value>1094400</value>
+        <value>1248000</value>
+        <value>1305600</value>
+    </array>
+    <array name="cpu.core_power.cluster0">
+        <value>39.75</value>
+        <value>51.75</value>
+        <value>64.00</value>
+        <value>70.75</value>
+    </array>
+    <item name="screen.on">61.01</item>
+    <item name="screen.full">220.15</item>
+    <item name="camera.flashlight">216</item>
+    <item name="camera.avg">570.78</item>
+    <item name="video">30</item>
+    <item name="audio">12</item>
+    <item name="gps.on">21.78</item>
+    <item name="radio.scanning">17.42</item>
+    <item name="radio.active">70</item>
+    <array name="radio.on">
+        <value>2</value>
+        <value>1</value>
+    </array>
+    <item name="wifi.on">1</item>
+    <item name="wifi.active">50</item>
+    <item name="wifi.scan">20</item>
+    <item name="wifi.controller.idle">1</item>
+    <item name="wifi.controller.rx">40</item>
+    <item name="wifi.controller.tx">50</item>
+    <array name="wifi.controller.tx_levels"> 3</array>
+    <item name="wifi.controller.voltage">3300</item>
+    <array name="wifi.batchedscan">
+        <value>.0001</value>
+        <value>.001</value>
+        <value>.01</value>
+        <value>.1</value>
+        <value>1</value>
+    </array>
+    <item name="bluetooth.controller.idle">0.5</item>
+    <item name="bluetooth.controller.rx">33.38</item>
+    <item name="bluetooth.controller.tx">95.87</item>
+    <item name="bluetooth.controller.voltage">3300</item>
+</device>
